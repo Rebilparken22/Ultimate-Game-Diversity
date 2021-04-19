@@ -1,0 +1,68 @@
+.header {
+    background-color:lightgreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    border-radius: 20px;
+}
+.description {
+    background-color: greenyellow;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.grid {
+    background-color: palegreen;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 20px;
+}
+.footer {
+    background-color: darkolivegreen;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+p,h2 {
+    text-align: center;
+}
+.item {
+    background-color: green;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+    }
+body {
+    font-family: 'Press Start 2P', cursive;
+}
+h1 {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+.center{
+    background-color: darkgreen;
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.game {
+    background-color: darkgreen;
+    border-radius: 20px;
+}
+.Me {
+    background-color: greenyellow;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+hr {
+    color: darkgreen;
+}
